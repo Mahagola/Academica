@@ -1,4 +1,4 @@
-# Academica 🎓
+# Academica
 
 A full-stack web app to manage student records — built with React.js, Node.js, Express.js, and MySQL.
 
